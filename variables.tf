@@ -5,3 +5,6 @@
   type        = string
   default     = null
 } */
+variable "random_id" {
+  type = string
+}
